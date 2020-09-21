@@ -5,8 +5,9 @@
 2. DB
 3. MongoDB
 4. Python
-5. 데이터분석
-6. 리눅스
-7. 중간에 BIT-Mini-Project-1
-8. 지금 BIT-Mini-Project-2
-9. 앞으로
+5. 중간에 BIT-Mini-Project-1
+6. 데이터분석
+7. 리눅스
+8. 하둡
+9. 지금 BIT-Mini-Project-2
+10. 앞으로
